@@ -279,16 +279,14 @@ footer .title{
     
     .about .wrapp{
         display: flex;
-        gap: 2rem;
+        gap: 3rem;
     }
 
     .about .content{
-        flex: 1;
+        flex: 1.5;
     }
 
-    .about img{
-        width: 100%;
-        flex: 1;
-        border-radius: 2rem;
+    .about-img{
     }
+
 }
